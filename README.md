@@ -1,5 +1,5 @@
 ### Hi i am Amador 👋
-
+<img src="https://github.com/devAmador91/devAmador91/blob/main/hello-world.gif"/>
 
 <p><em>A university student at <a href="https://www.unadmexico.mx/">UnADM</a>, Software Engineering. 😊</br>
 </em></p>
