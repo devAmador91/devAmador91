@@ -47,9 +47,7 @@ Email: aguilar_amador@live.com.mx
 
 WP: +52 9842397447
 
-You can see my CV in Featured
-
-nice day ;)</br>
+</br>
 </em></p>
 
 
