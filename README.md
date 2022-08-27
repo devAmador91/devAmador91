@@ -22,7 +22,7 @@ const aboutMe = {
       databases: ["Postgresql", "mySQL", "Sqlite"],
       orm: ["Sequelize]
    },
-   currentOccupation: ["last year student, open for job opportunities"]
+   currentOccupation: ["Developer in Valtech México"]
 };
 ```
 ### Lenguage and tools
@@ -44,8 +44,6 @@ I have experience working with technologies such as #JavaScript, #HTML, #Css, #S
 Currently created two web projects individually applying all my knowledge in full stack. I also collaborated as a full stack developer in an ecommerce web project where products are marketed and services are offered to the client.
 
 Currently I continue to delve deeper into the technologies that I already master since I am interested in offering quality in that company where I can add value.
-
-I am looking for that company that allows me to give you the best of me and that at the same time offers me challenges where I can grow professionally.
 
 ### Contact name
 
