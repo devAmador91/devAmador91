@@ -45,11 +45,7 @@ Currently created two web projects individually applying all my knowledge in ful
 
 Currently I continue to delve deeper into the technologies that I already master since I am interested in offering quality in that company where I can add value.
 
-### Contact name
 
-Email: aguilar_amador@live.com.mx
-
-WP: +52 9842397447
 
 </br>
 </em></p>
